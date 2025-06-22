@@ -1,6 +1,8 @@
-# Canva App
+# Canva Auto-Translation Add-In!
 
-Welcome to your Canva App! 🎉 Demo: https://youtu.be/wPiQsCr5RVY 
+Canva is used daily by teams working across the globe in different languages. Whether you are an ad designer working with teams in Spain or a student needing to make slides for your French class, easy, efficient text translation is vital to your workflow. Currently, the Canva app doesn't have a simple way to translate text; you have to either copy and paste each individual text box into Google Translate or Magic Write within the app, which can be unnecessarily tedious. With this Canva Auto-Translation Add-in, do it all in one click of a button!
+
+Demo: https://youtu.be/wPiQsCr5RVY 
 
 ## Requirements
 
